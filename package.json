@@ -1,0 +1,20 @@
+{
+	"name": "next-multiple",
+	"version": "1.0.0",
+	"description": "Returns the next smallest multiple of a number.",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/axelf4/next-multiple.git"
+	},
+	"keywords": [
+		"multiple",
+		"divisible"
+	],
+	"author": "Axel Forsman",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/axelf4/next-multiple/issues"
+	},
+	"homepage": "https://github.com/axelf4/next-multiple#readme"
+}
